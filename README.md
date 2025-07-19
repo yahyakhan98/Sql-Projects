@@ -18,7 +18,6 @@ Every query is clearly written, commented, and optimized for performance and rea
 From customer behavior to business KPIs — explore how raw data becomes actionable knowledge.
 
 
-
 ## 🛠 Tools & Technologies
 
 - **SQL** (PostgreSQL / MySQL / MS SQL Server)
@@ -27,4 +26,4 @@ From customer behavior to business KPIs — explore how raw data becomes actiona
 - **CTEs, Subqueries & Window Functions**
 - **Real-life datasets & problem-solving**
 
-
+## If you like what you see, please give this repo a ⭐ and share it with others!
